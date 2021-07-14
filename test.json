@@ -1,0 +1,11 @@
+{
+    "profiles": {
+        "default": {
+            "debugger": {
+                "sessionName": "default",
+                "brokerHost": "debug.thundra.io",
+                "brokerPort": 443
+            }
+        }
+    }
+}
