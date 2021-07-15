@@ -2,7 +2,7 @@
     "profiles": {
         "default": {
             "debugger": {
-                "sessionName": "default",
+                "sessionName": "default 1",
                 "brokerHost": "debug.thundra.io",
                 "brokerPort": 443
             }
